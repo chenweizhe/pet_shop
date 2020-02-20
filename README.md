@@ -53,5 +53,10 @@
 
 # 部分截图
 
- 
+![code](https://github.com/chenweizhe/pet_shop/blob/master/src/jietu/1.png) 
+![](https://github.com/chenweizhe/pet_shop/blob/master/src/jietu/2.png) 
+![](https://github.com/chenweizhe/pet_shop/blob/master/src/jietu/3.png) 
+
+
+
 
